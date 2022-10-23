@@ -5,10 +5,10 @@ News Tracker Application
 SATHISH - Team Leader
 
 
-NARMATHA - Team Member
+SHANTHINI - Team Member 1
 
 
-SHANTHINI - Team Member
+NARMATHA - Team Member 2
 
 
-VIGNESH - Team Member
+VIGNESH - Team Member 3
